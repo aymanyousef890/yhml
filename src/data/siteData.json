@@ -1,0 +1,149 @@
+{
+  "company": {
+    "name": { "en": "Y.H.M.L", "ar": "Y.H.M.L" },
+    "established": 1995,
+    "slogan": {
+      "en": "Your Trusted Global Trading Partner Since 1995",
+      "ar": "شريكك التجاري العالمي الموثوق منذ 1995"
+    },
+    "description": {
+      "en": "Y.H.M.L is a leading import, export, and trading company established in 1995. We specialize in delivering high-quality products across multiple sectors including cleaning supplies, tissues, clothing, and household products to markets worldwide.",
+      "ar": "شركة Y.H.M.L هي شركة رائدة في مجال الاستيراد والتصدير والتجارة تأسست عام 1995. نتخصص في تقديم منتجات عالية الجودة عبر قطاعات متعددة تشمل مستلزمات التنظيف والمناديل والملابس والمنتجات المنزلية للأسواق العالمية."
+    },
+    "email": "waleedalgothinh@gmail.com",
+    "address": {
+      "en": "Floor 2, Block 205, 6th of October - Central Axis, City Star - Al-Laithy Mall - Tower 2, Giza Governorate 12942",
+      "ar": "الدور 2، قطعة 205، 6 أكتوبر - المحور المركزي سيتي ستار - مول الليثي - برج رقم 2، محافظة الجيزة 12942"
+    },
+    "mapUrl": "https://www.google.com/maps/place/%D8%B4%D8%B1%D9%83%D8%A9+Y.H.M.L+%D9%84%D9%84%D8%AA%D8%AC%D8%A7%D8%B1%D8%A9+%D9%88+%D8%A7%D9%84%D8%AA%D8%B5%D8%AF%D9%8A%D8%B1%E2%80%AD/data=!4m2!3m1!1s0x0:0x405f7bdb0975b5cb?sa=X&ved=1t:2428&hl=ar-EG&ictx=111",
+    "whatsapp": ["+201030484928", "+967775305555", "+201111935879"],
+    "callPhones": ["+201030484928", "+201111935860", "+201111935871", "+201111935879"]
+  },
+  "social": {
+    "facebook": "https://www.facebook.com/combanyyhml",
+    "instagram": "https://www.instagram.com/yhml442",
+    "tiktok": "http://tiktok.com/@yhml3461511106829",
+    "linkedin": "http://www.linkedin.com/in/combany-yhml-1747273b2",
+    "twitter": "https://x.com/home",
+    "pinterest": "https://www.pinterest.com/combanyyhml",
+    "google": "https://share.google/UZdcSckgehLgK5Oq5"
+  },
+  "hero": {
+    "slides": [
+      {
+        "title": { "en": "Global Import & Export Solutions", "ar": "حلول الاستيراد والتصدير العالمية" },
+        "subtitle": { "en": "Connecting markets worldwide with quality products since 1995", "ar": "ربط الأسواق العالمية بمنتجات عالية الجودة منذ 1995" },
+        "cta": { "en": "Contact Us", "ar": "تواصل معنا" }
+      },
+      {
+        "title": { "en": "Quality Products, Trusted Delivery", "ar": "منتجات عالية الجودة، توصيل موثوق" },
+        "subtitle": { "en": "From cleaning supplies to clothing — we deliver excellence", "ar": "من مستلزمات التنظيف إلى الملابس — نقدم التميز" },
+        "cta": { "en": "Our Services", "ar": "خدماتنا" }
+      },
+      {
+        "title": { "en": "Your Bridge to International Trade", "ar": "جسرك إلى التجارة الدولية" },
+        "subtitle": { "en": "30+ years of experience in global commerce", "ar": "أكثر من 30 عامًا من الخبرة في التجارة العالمية" },
+        "cta": { "en": "Learn More", "ar": "اعرف المزيد" }
+      }
+    ]
+  },
+  "services": [
+    {
+      "id": "cleaning",
+      "icon": "Sparkles",
+      "title": { "en": "Cleaning Supplies", "ar": "مستلزمات التنظيف" },
+      "description": { "en": "High-quality cleaning products for commercial and residential use, sourced from trusted manufacturers worldwide.", "ar": "منتجات تنظيف عالية الجودة للاستخدام التجاري والسكني، من مصنعين موثوقين حول العالم." }
+    },
+    {
+      "id": "tissues",
+      "icon": "Layers",
+      "title": { "en": "Tissues & Paper Products", "ar": "المناديل والمنتجات الورقية" },
+      "description": { "en": "Premium tissue and paper products meeting international quality standards for diverse market needs.", "ar": "مناديل ومنتجات ورقية فاخرة تلبي معايير الجودة الدولية لاحتياجات السوق المتنوعة." }
+    },
+    {
+      "id": "clothing",
+      "icon": "Shirt",
+      "title": { "en": "Clothing & Apparel", "ar": "الملابس والأزياء" },
+      "description": { "en": "Fashionable and durable clothing lines imported from top global manufacturers at competitive prices.", "ar": "خطوط ملابس أنيقة ومتينة مستوردة من أفضل المصنعين العالميين بأسعار تنافسية." }
+    },
+    {
+      "id": "household",
+      "icon": "Home",
+      "title": { "en": "Household Products", "ar": "المنتجات المنزلية" },
+      "description": { "en": "Essential household items and accessories that combine quality, functionality, and affordability.", "ar": "منتجات منزلية أساسية تجمع بين الجودة والعملية والأسعار المعقولة." }
+    },
+    {
+      "id": "import-export",
+      "icon": "Globe",
+      "title": { "en": "Import & Export Services", "ar": "خدمات الاستيراد والتصدير" },
+      "description": { "en": "Comprehensive import and export facilitation services with end-to-end logistics support.", "ar": "خدمات شاملة لتسهيل الاستيراد والتصدير مع دعم لوجستي متكامل." }
+    },
+    {
+      "id": "trading",
+      "icon": "TrendingUp",
+      "title": { "en": "General Trading", "ar": "التجارة العامة" },
+      "description": { "en": "Versatile trading operations across multiple sectors with a focus on emerging market opportunities.", "ar": "عمليات تجارية متنوعة عبر قطاعات متعددة مع التركيز على فرص الأسواق الناشئة." }
+    }
+  ],
+  "whyChoose": [
+    {
+      "icon": "Users",
+      "title": { "en": "Expert Team", "ar": "فريق خبير" },
+      "description": { "en": "Decades of combined industry experience driving results.", "ar": "عقود من الخبرة المشتركة في الصناعة لتحقيق النتائج." }
+    },
+    {
+      "icon": "Settings",
+      "title": { "en": "Customized Solutions", "ar": "حلول مخصصة" },
+      "description": { "en": "Tailored approaches to meet your unique business needs.", "ar": "مناهج مصممة خصيصًا لتلبية احتياجات عملك الفريدة." }
+    },
+    {
+      "icon": "Shield",
+      "title": { "en": "Quality Commitment", "ar": "الالتزام بالجودة" },
+      "description": { "en": "Uncompromising standards in every product we deliver.", "ar": "معايير لا هوادة فيها في كل منتج نقدمه." }
+    },
+    {
+      "icon": "Headphones",
+      "title": { "en": "After-Sales Support", "ar": "دعم ما بعد البيع" },
+      "description": { "en": "Continuous support to ensure your complete satisfaction.", "ar": "دعم مستمر لضمان رضاك الكامل." }
+    }
+  ],
+  "stats": [
+    { "value": 30, "suffix": "+", "label": { "en": "Years of Experience", "ar": "سنوات الخبرة" } },
+    { "value": 50, "suffix": "+", "label": { "en": "Countries Reached", "ar": "دولة تم الوصول إليها" } },
+    { "value": 1000, "suffix": "+", "label": { "en": "Satisfied Clients", "ar": "عملاء راضون" } },
+    { "value": 5000, "suffix": "+", "label": { "en": "Products Delivered", "ar": "منتج تم تسليمه" } }
+  ],
+  "about": {
+    "story": {
+      "en": "Founded in 1995, Y.H.M.L has grown from a small trading firm into a major international import and export company. With over three decades of experience, we have built strong partnerships across the globe, delivering quality products to diverse markets. Our journey is defined by integrity, innovation, and an unwavering commitment to excellence.",
+      "ar": "تأسست شركة Y.H.M.L عام 1995، ونمت من شركة تجارية صغيرة إلى شركة دولية كبرى في مجال الاستيراد والتصدير. مع أكثر من ثلاثة عقود من الخبرة، بنينا شراكات قوية حول العالم، نقدم منتجات عالية الجودة لأسواق متنوعة. تتميز مسيرتنا بالنزاهة والابتكار والالتزام الثابت بالتميز."
+    },
+    "vision": {
+      "en": "To be the most trusted and innovative trading partner in the global market, setting new standards for quality and service excellence.",
+      "ar": "أن نكون الشريك التجاري الأكثر ثقة وابتكارًا في السوق العالمي، ووضع معايير جديدة للجودة والتميز في الخدمة."
+    },
+    "mission": {
+      "en": "To connect global markets with high-quality products through reliable, efficient, and sustainable trading practices that create value for our partners and communities.",
+      "ar": "ربط الأسواق العالمية بمنتجات عالية الجودة من خلال ممارسات تجارية موثوقة وفعالة ومستدامة تخلق قيمة لشركائنا ومجتمعاتنا."
+    },
+    "values": [
+      { "title": { "en": "Integrity", "ar": "النزاهة" }, "description": { "en": "We conduct business with honesty, transparency, and ethical standards.", "ar": "نمارس الأعمال بصدق وشفافية ومعايير أخلاقية." } },
+      { "title": { "en": "Innovation", "ar": "الابتكار" }, "description": { "en": "We embrace new ideas and technologies to stay ahead.", "ar": "نتبنى الأفكار والتقنيات الجديدة للبقاء في المقدمة." } },
+      { "title": { "en": "Hard Work", "ar": "العمل الدؤوب" }, "description": { "en": "We are dedicated to exceeding expectations through persistent effort.", "ar": "نحن ملتزمون بتجاوز التوقعات من خلال الجهد المستمر." } }
+    ]
+  },
+  "navigation": [
+    { "label": { "en": "Home", "ar": "الرئيسية" }, "path": "/" },
+    { "label": { "en": "About", "ar": "من نحن" }, "path": "/about" },
+    { "label": { "en": "Services", "ar": "خدماتنا" }, "path": "/services" },
+    { "label": { "en": "Contact", "ar": "تواصل معنا" }, "path": "/contact" }
+  ],
+  "partners": [
+    { "name": "Partner 1" },
+    { "name": "Partner 2" },
+    { "name": "Partner 3" },
+    { "name": "Partner 4" },
+    { "name": "Partner 5" },
+    { "name": "Partner 6" }
+  ]
+}
