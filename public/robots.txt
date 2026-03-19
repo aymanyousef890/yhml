@@ -1,0 +1,27 @@
+# Robots.txt for Y.H.M.L Website
+# https://www.robotstxt.org/
+
+# Allow all robots
+User-agent: *
+Allow: /
+Disallow: /dashboard
+Disallow: /login
+Disallow: /*.json$
+Disallow: /*.pdf$
+
+# Specific for Google
+User-agent: Googlebot
+Allow: /
+Crawl-delay: 0
+
+# Specific for Bing
+User-agent: Bingbot
+Allow: /
+Crawl-delay: 1
+
+# Block bad bots
+User-agent: MJ12bot
+Crawl-delay: 2
+
+# Sitemap location
+Sitemap: https://yhml.com/sitemap.xml
